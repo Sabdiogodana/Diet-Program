@@ -1,0 +1,249 @@
+body{
+    margin: 0%;
+    text-decoration: none;
+    background-color: rgb(244,242, 242);
+
+}
+nav{
+    text-decoration: none;
+    display: inline;
+    outline: none;
+}
+nav li{
+    display: inline;
+    padding: 2%;
+    color: rgb(179, 164, 163);
+}
+nav li a{
+  display: inline;
+}
+.page1{
+/* margin-left: 50%; */
+margin-top: 2%;
+text-align: center;
+}
+.diet{
+ color: rgb(242, 134, 89);  
+ margin-right: 70%; 
+ margin-top: -6%;
+}
+.button{
+    background-color: rgb(242, 134, 89);
+    padding:8px;
+    width: 55px;
+    border-radius: 12px;
+    margin-left: 75%;
+    margin-top: -2%;
+    color: #ffffff;
+}
+.sign{
+    box-shadow: 10px,20px, rgb(226, 190, 190);
+}
+.formation{
+    margin-left: 52%;
+    margin-top: 5%;
+}
+.formation h5{
+    color: rgb(227, 128, 128);
+    text-decoration: solid;
+}
+.formation p{
+    color: rgb(179, 164, 163);
+}
+.start{
+    border-radius: 12px;
+    background-color: rgb(242, 134, 89);
+    width: 8%;
+    padding:8px ;
+    padding-left: 2%;
+    color: #ffffff;
+    border-style: double;
+    margin-left: 53%;
+}
+.icons{
+   margin-left: 65%;
+   color: rgb(179, 164, 163);
+   margin-top: -4%;
+   
+}
+.image{
+    margin-top: -20%;
+    margin-left: 8%;
+    background-clip: padding-box;
+    /* clip-path: circle; */
+}
+.unlock{
+    background-color:rgb(242, 242, 242);
+    width: 10%;
+    border-radius: 10px;
+    padding: 10px;
+    margin-left: -35%;
+}
+/* .page2{
+    text-align: center;
+    margin-top: 5%;
+    display: flex;
+} */
+.popular{
+   text-align: center;
+   margin-top: 2%;
+}
+.popular p{
+    color: rgb(179, 164, 163);   
+}
+.bigbox{
+    background-color: rgb(56, 54, 54);
+    display: flex;
+    margin-top: 5%;
+    width: 70%;
+    border-radius: 10px;
+    margin-left: 15%;
+    padding-bottom: 4%;
+
+}
+.box1{
+  background-color: floralwhite;
+ border-radius: 10px;
+ margin-left: 13%;
+ margin-top: -2%;
+ width: 20%;
+ text-align: center;
+}
+.box2{
+    background-color: floralwhite;  
+    border-radius: 10px;
+    width: 20%;
+    margin-top: -2%;
+    margin-left: 7%;
+    text-align: center;
+}
+.box3{
+    background-color: floralwhite;  
+    border-radius: 10px;
+    width: 20%;
+    margin-left: 6%;
+    margin-top: -2%;
+    text-align: center;
+}
+.stars{
+    color: rgb(227, 128, 128); 
+    /* margin-top: -%; */
+}
+.page3{
+    margin-left: 52%;
+}
+.reasons p{
+    color: rgb(179, 164, 163);   
+}
+.body{
+background-color:rgb(242,239, 232);
+padding: 8px;
+border-radius: 12px;
+width: 50%;
+}
+.body h5{
+    color: rgb(242, 134, 89);   
+}
+.body p{
+    color: rgb(179, 164, 163);  
+}
+.image2{
+    margin-left: -90%;
+    margin-top: -60%;
+}
+.page4{
+ margin-left: 18%; 
+ margin-top: 10%;  
+}
+.four{
+    display:flex;
+   
+}
+.two{
+    margin-left: 5%;
+}
+.for{
+    margin-left: -18%;   
+}
+.page4 p{
+    color: rgb(179, 164, 163);  
+   font-size: small;
+}
+.bestadvice{
+    margin-top: 20%;
+    margin-left: -45%;
+    display:flex;
+}
+.weight{
+    margin-left: 56%;
+    margin-top: -40%;
+    background-color: rgb(253, 200,60);
+    clip-path: circle();
+}
+.benefit img{
+    margin-left: 3%;
+    margin-top: -4%;
+   
+}
+    
+.page5{
+    text-align: center;
+    margin-top: 12%;
+}
+.box{
+    background-color: rgb(253, 200,60);
+    padding: 1px;
+    border-radius: 16px;
+    width: 60%;
+    margin-left: 18%;
+}
+.buss{
+margin-top: -20%;
+}
+.box img{
+    margin-left: -68%;
+   margin-top: -4%;
+}
+.box p{
+    color: rgb(155, 125, 42);  
+   
+}
+
+.freediet{
+    /* background-color:rgb(242, 209, 201); */
+  background-color: #ffffff;
+  border-radius: 18px;
+  width: 40%;
+  padding: 2px;
+  padding-bottom: 8px;
+  margin-left: 26%;
+  margin-top: -2%;
+  
+}
+.freediet h4{
+    margin-left: -16%;
+    margin-top: 6%;
+}
+.joinnow{
+    padding: 1px;
+    margin-top: -6%;
+}
+.join{
+    background-color: rgb(242, 134, 89);
+    border-radius: 12px;  
+    padding: 6px;
+    margin-left: 55%;
+    margin-top: -20px;
+}
+.footer{
+    display: flex;
+    margin-left: 16%;
+    justify-content: space-around;
+    margin-top: 4%;
+}
+.footer p{
+    color: rgb(179, 164, 163);  
+    font-size: 14px; 
+}
+
+
